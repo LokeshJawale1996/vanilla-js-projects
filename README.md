@@ -3,12 +3,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lokeshjawale96.vanilla-js-projects)
 
 
-Project without using any external libraries
+# Project List
 
-<h1>Source Codes</h1>
-
-- [Form Validator](./Form%20Validator/script.js)
-
-<h1>Live Demo</h1>
-
-- [form Validator](https://form-validator-vanilla-js-lj.netlify.app/)
+|  #  |            Code             | Live Template |
+| :-: | :----------------------------: | :-------: |
+| 01  |     [Form Validator](./Form%20Validator/)      | [Live Demo](https://form-validator-vanilla-js-lj.netlify.app/) |  
+| 02  |     [Exchange Rate](./Exchange-Rate/)      | [Live Demo](https://loki-exchange-changer.netlify.app/) |
