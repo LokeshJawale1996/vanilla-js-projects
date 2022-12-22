@@ -11,3 +11,4 @@
 | 02  |     [Exchange Rate](./Exchange-Rate/)      | [Live Demo](https://loki-exchange-changer.netlify.app/) |
 | 03  |     [Modal-Menu Slider](./Modal-Menu-Slider/)  | [Live Demo](https://loki-modal-menu-slider.netlify.app/) |
 | 04  |     [DOM Array Methods](./Dom-Array-Methods/)  | [Live Demo](https://loki-dom-array-methods.netlify.app/) |
+| 05  |     [Age Calculator](./Age%20Calculator/)  | [Live Demo](https://loki-age-calculator.netlify.app/) |
